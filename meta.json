@@ -1,0 +1,10 @@
+{
+    "name" : "Orbit Slider",
+    "slug" : "f1OrbitSliderPlugin",
+    "download_url" : "http://plugins.skorinc.com/updates/skorshows/skorshows.zip",
+    "version" : "0.1.2",
+    "author" : "Factor1",
+    "sections" : {
+        "description" : "f1 Zurb Foundation orbit slider!"
+    }
+}

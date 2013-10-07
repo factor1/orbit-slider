@@ -6,6 +6,18 @@
  Author: Factor1
  Author URI: http://www.factor1studios.com/
 */
+
+
+require 'plugin-updates/plugin-update-checker.php';
+$MyUpdateChecker = new PluginUpdateChecker(
+    'https://github.com/factor1/orbit-slider/meta.json',
+    __FILE__,
+    'skorshows',
+    1
+);
+
+
+
 $f1OrbitSliderPlugin = new f1OrbitSliderPlugin();
 
 class f1OrbitSliderPlugin
