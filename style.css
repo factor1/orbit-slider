@@ -1,0 +1,36 @@
+#f1-orbit-slides {
+    list-style:none;
+    margin:0;
+    padding:0;
+}
+#f1-orbit-slides li:nth-child(even) {
+    background:#DEDEDE;
+}
+#f1-orbit-slides li:nth-child(odd) {
+    background:#EEE;
+}
+#f1-orbit-slides-extra {
+    display:none;
+}
+.padding {
+    padding:10px;
+}
+#f1orbitslider_frm_admin_details .field label {
+    display:block;
+    font-weight:bold;
+}
+#f1orbitslider_frm_admin_details .field input, #f1orbitslider_frm_admin_details .field select {
+    width:100%;
+}
+.f1_orbit_sliders_table {
+    width:100%;
+}
+.f1_orbit_sliders_table td:last-child, .f1_orbit_sliders_table th:last-child {
+    width:100px;
+}
+.f1_orbit_sliders_table tbody tr:nth-child(even) {
+    background:#EEE;
+}
+.f1_orbit_sliders_table tbody tr:nth-child(odd) {
+    background:#DDD;
+}
