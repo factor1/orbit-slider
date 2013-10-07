@@ -10,7 +10,7 @@
 
 require 'plugin-updates/plugin-update-checker.php';
 $MyUpdateChecker = new PluginUpdateChecker(
-    'https://github.com/factor1/orbit-slider/meta.json',
+    'https://raw.github.com/factor1/orbit-slider/master/meta.json',
     __FILE__,
     'skorshows',
     1
