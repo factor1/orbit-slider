@@ -8,13 +8,7 @@
 */
 
 
-require 'plugin-updates/plugin-update-checker.php';
-$MyUpdateChecker = new PluginUpdateChecker(
-    'https://raw.github.com/factor1/orbit-slider/master/meta.json',
-    __FILE__,
-    'skorshows',
-    1
-);
+include_once('updater.php');
 
 
 
