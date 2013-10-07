@@ -2,7 +2,7 @@
 /*
  Plugin Name: F1 Orbit Slider
  Description: Slide show manager
- Version: 1.2
+ Version: 1.2.1
  Author: Factor1
  Author URI: http://www.factor1studios.com/
 */
